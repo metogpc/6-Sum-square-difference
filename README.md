@@ -1,3 +1,3 @@
-# 6-Sum-square-difference
+#- 6- Sum square difference with JAVA
 
 Project Euler - problem 6
